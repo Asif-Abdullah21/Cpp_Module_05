@@ -4,7 +4,7 @@ int main()
 {
     int n;
     cin >> n;
-    cin.ignore(); /// int type er variable input neyar pore srting input nite chaile eita use korte hoy, nahole string enter input niye felbe r problem hobe///
+    cin.ignore(); /// int type er variable input neyar pore srting input nite chaile eita use korte hoy, nahole string ta enter input niye felbe r problem hobe///
     //getchar(); /// kichu kichu compiler e cin.ignore kaj kore na, tokhon eta use korte hoy ///
 
     string name;
